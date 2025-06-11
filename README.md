@@ -109,14 +109,6 @@ pip install -r requirements.txt
 - **Training Loss:** 0.3
 - **Validation Loss:** 0.5
 
-### 📈 Accuracy Plot
-![Accuracy Plot](accuracy_plot.png)
-
-### 📉 Loss Plot
-![Loss Plot](loss_plot.png)
-
-### 📊 Confusion Matrix
-![Confusion Matrix](confusion_matrix_age_prediction.png)
 
 ---
 
@@ -130,18 +122,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🙌 Acknowledgments
-
-- Facial dataset obtained from open-source image repositories.
-- Inspired by academic exploration and portfolio development.
-
----
-
-## 📄 License
-
-Licensed under the [MIT License](https://opensource.org/licenses/MIT). Free for personal and commercial use.
-
----
 
 ## 👤 Author
 
